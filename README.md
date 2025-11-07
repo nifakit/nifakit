@@ -41,16 +41,6 @@ Frontend Developer focused on building modern web experiences.
 
 ---
 
-### 🐍 Activity Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/nifakit/nifakit/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ### 🌐 Projects
 
 Soon I will publish more projects 👇  
