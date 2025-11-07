@@ -10,8 +10,7 @@ Frontend Developer focused on building modern web experiences.
 - Currently growing skills toward becoming a full-stack frontend developer  
 - I love writing clean, scalable and maintainable code  
 
-📫 **Email:** *your_email@example.com*  
-(Replace with your real email)
+📫 **Email:** *nikitanikulin182@gmail.com*  
 
 ---
 
