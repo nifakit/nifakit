@@ -27,8 +27,9 @@ I believe great products come from great user experiences, and I’m here to cre
 
 **Backend / Tools**
 <div>
-<img src="https://skillicons.dev/icons?i=nodejs,git,npm,c#" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,nodejs,npm,azure,docker,visualstudio" />
 </div>
+
 
 ---
 
