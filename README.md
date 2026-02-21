@@ -1,4 +1,4 @@
-<h1>👋 Hey, I'm <strong>nifakit</strong></h1>
+<h1>👋 Hey, I'm <strong>nifakit</strong>  <img src="https://komarev.com/ghpvc/?username=nifakit&style=flat-square&color=blue" /></h1> 
 
 <img
   align="right"
@@ -10,10 +10,9 @@
   I’m a web developer who loves transforming ideas into smooth, visually engaging digital experiences.
 I focus on frontend engineering with a growing passion for full-stack development.
 
-My goal is to build interfaces that are not only beautiful, but also intuitive, accessible, and fast.
-I enjoy learning new technologies, experimenting with modern UI approaches, and constantly improving the way I write code.
+My goal is to build interfaces that are intuitive, accessible, and fast, while constantly learning new technologies and improving the way I write code.
 
-I believe great products come from great user experiences, and I’m here to create exactly that.
+  ...  
 </div>
 
 
