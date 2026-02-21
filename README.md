@@ -3,7 +3,7 @@
 <img
   align="right"
   height="250"
-  src="https://github-readme-stats.vercel.app/api?username=nifakit&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff&border_radius=16"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nifakit&theme=tokyonight&border_radius=16"
 />
 
 <div>
